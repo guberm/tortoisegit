@@ -1,0 +1,13 @@
+# Transifex #
+
+we have setup a web based translation platform at https://transifex.com like the TortoiseSVN project. This makes it easier for new translators to get started. If you want to help to translate TortoiseGit, please register an account at transifex.com (you can also login using your google account), then request membership of one of our translation teams or request to create a new team, if your language is not yet listed.
+
+https://www.transifex.com/projects/p/tortoisegit/
+
+For most (unlisted) languages you do not need to start all over, a large amount of translated strings can be reused from the TortoiseSVN project: Just request a new language team and contact the TortoiseGit developers!
+
+Goal is to provide language files starting with the next releases as soon as more than 50 % of the strings are translated.
+
+You can find the language packs on our [Download page](Download.md).
+
+In order to build your own language dlls, we provide the ResText tool as well as the language dlls for [download (select your revision and scroll down)](http://download.tortoisegit.org/tgit/) for stable and preview releases.
